@@ -1,49 +1,43 @@
-🏋️ IronFit
-Landing page responsiva desenvolvida para uma academia fictícia, com foco em design moderno, organização de conteúdo e responsividade.
-O projeto foi criado como parte dos meus estudos de HTML5 e CSS3, colocando em prática conceitos de Flexbox, Grid, responsividade e boas práticas de desenvolvimento Front-End.
-🌐 Acesse o projeto
+# 🏋️ IronFit
 
-🔗 Clique aqui para acessar a IronFit:
-https://fab270.github.io/ironfit/
+Landing page responsiva de uma academia fictícia, desenvolvida como parte dos meus estudos de **HTML5 e CSS3**.
 
-🚀 Sobre o projeto
-A IronFit é uma landing page que apresenta uma academia e seus principais serviços.
-O site conta com seções para:
-🏠 Início
-💪 Benefícios
-💳 Planos
-🏋️ Sobre a academia
-⭐ Feedbacks de alunos
-📞 Contato
+## 🌐 Acesse o projeto
 
-💻 Tecnologias utilizadas
-HTML5
-CSS3
-Flexbox
-CSS Grid
-Media Queries
-Font Awesome
-Git
-GitHub
+🔗 [Clique aqui para acessar a IronFit](https://fab270.github.io/ironfit/)
 
-📱 Responsividade
-O projeto foi desenvolvido para se adaptar a diferentes tamanhos de tela, incluindo desktop, tablet e smartphone.
-Foram utilizadas Media Queries para reorganizar elementos, cards, imagens e seções em dispositivos menores.
+## 🚀 Sobre o projeto
 
-🎯 Objetivo
-O principal objetivo deste projeto é praticar e aprimorar meus conhecimentos em desenvolvimento Front-End, especialmente:
-Estruturação semântica com HTML
-Flexbox e CSS Grid
-Responsividade
-Organização de estilos
-Hover, transitions e transforms
-Manipulação e posicionamento de imagens
-Construção de layouts modernos
-📚 Status do projeto
-🚧 Em desenvolvimento
-A IronFit ainda está recebendo melhorias conforme avanço nos meus estudos de desenvolvimento web.
+A **IronFit** apresenta uma academia, seus benefícios, planos e informações principais através de uma landing page moderna e responsiva.
 
-👨‍💻 Autor
-Kauã Fábio
+O projeto possui seções de **Início, Benefícios, Planos, Sobre, Feedbacks e Contato**.
+
+## 💻 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
+* Media Queries
+* Font Awesome
+* Git e GitHub
+
+## 📱 Responsividade
+
+O site foi desenvolvido para funcionar em diferentes tamanhos de tela, adaptando o layout para desktop, tablet e dispositivos móveis.
+
+## 🎯 Objetivo
+
+O objetivo deste projeto é praticar meus conhecimentos em desenvolvimento Front-End, principalmente HTML, CSS, Flexbox, Grid e responsividade.
+
+## 📚 Status
+
+🚧 Projeto em desenvolvimento.
+
+## 👨‍💻 Autor
+
+**Kauã Fábio**
+
 Estudante de Sistemas de Informação e desenvolvedor Front-End em formação.
-GitHub: @fab270
+
+GitHub: **@fab270**
